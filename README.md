@@ -35,6 +35,7 @@ Understand your account health, audience quality, and content performance.
 
 - [Twitter Score / TweetScout](https://www.blockmm.ai/articles/static/what-is-tweetscount-x-authority-score) — Explains what Twitter Score (TweetScout) is, how it's calculated, and how to improve it.
 - [X Analytics (native)](https://analytics.twitter.com) — Official X dashboard for impressions, profile visits, and audience demographics.
+- [twtData Follower Analytics](https://twtdata.com/follower-analytics/) — Analyse the followers of any public X account: bot detection, interests, professions and lead scores.
 - [X Analytics Guide for Crypto Projects](https://www.blockmm.ai/guides/x-analytics-crypto-metrics-that-matter) — Which metrics actually matter for web3 projects and how to read them.
 - [Follow-Back Rate Research 2025](https://www.blockmm.ai/articles/static/x-follow-back-report-2025) — Data study on follow-back rates across 10,000+ X accounts by niche and posting frequency.
 - [Follower Quality vs Follower Count](https://www.blockmm.ai/articles/static/follower-quality-vs-follower-count-x) — Why follower quality matters more than raw numbers for engagement rates.
